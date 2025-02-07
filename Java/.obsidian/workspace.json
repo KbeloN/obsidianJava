@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "0d2218fade374f27",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9cfe29e6dcc34b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ed9b57de20d1483",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Herança/O que é Herança em JAVA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O que é Herança em JAVA"
+            }
+          },
+          {
+            "id": "c8861579fd888c0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Herança/O que é Herança em JAVA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O que é Herança em JAVA"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "168b30f56b4839ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "73c438a0b8765bd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d0064845c2b7096",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aec33bd097d22c8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7847d149ce09c05a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d18743d9328c2e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecdab54b109ff08c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e36ac17383622495",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Herança/O que é Herança em JAVA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for O que é Herança em JAVA"
+            }
+          },
+          {
+            "id": "904d161b8367bf08",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Herança/O que é Herança em JAVA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from O que é Herança em JAVA"
+            }
+          },
+          {
+            "id": "793b1afd5ae42c49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3dfed2b36fb5aa04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Herança/O que é Herança em JAVA.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of O que é Herança em JAVA"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c8861579fd888c0d",
+  "lastOpenFiles": [
+    "Herança/Pasted image 20250204092839.png",
+    "O que é upcasting e downcasting.md",
+    "Herança/O que é Herança em JAVA.md",
+    "Herança",
+    "Welcome.md"
+  ]
+}
