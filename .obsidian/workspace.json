@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Exceções (Exceptions)/Exceções em Java.md",
+                "file": "Java/Exceções (Exceptions)/Pilha de chamadas de métodos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exceções em Java"
+              "title": "Pilha de chamadas de métodos"
             }
           }
         ],
@@ -179,11 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1612852f09e22d3",
+  "active": "326448177d870c17",
   "lastOpenFiles": [
-    "Java/Exceções (Exceptions)/Pilha de chamadas de métodos.md",
-    "Java/Exceções (Exceptions)/Exceções personalizadas.md",
     "Java/Exceções (Exceptions)/Exceções em Java.md",
+    "Java/Exceções (Exceptions)/Exceções personalizadas.md",
+    "Java/Exceções (Exceptions)/Pilha de chamadas de métodos.md",
     "Templates/Assunto.md",
     "Java/Exceções (Exceptions)/Estrutura Try-Catch.md",
     "Java/Herança e Polimorfismo/Herança em JAVA.md",
