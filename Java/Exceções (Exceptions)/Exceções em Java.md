@@ -1,7 +1,7 @@
 Escrito em: 06-02-2025 08:59
 # O que é
 São erros que podem acontecer em tempo de execução.
-As exceções são uma extensão da classe Throwable que contem dois tipos de erros:
+As exceções são uma extensão da classe Throwable que contem dois tipos de exceções:
 
 - Error, que são erros que o programador não consegue consertar como um erro na maquina virtual Java (VirtualMachineError) ou falta de memória para a execução do programa (OutOfMemoryError). 
 

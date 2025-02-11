@@ -1,9 +1,9 @@
 Escrito em: 05-02-2025 09:30
 
-tags:[[Herança em JAVA]]
+tags: [[Herança em JAVA]]
 # O que é
 
-Polimorfismo é a capacidade de uma variável genérica ter um comportamento diferente em método de acordo com o tipo instanciado.
+Polimorfismo é a capacidade de uma variável genérica ter um comportamento diferente em um método de acordo com o tipo instanciado.
 Ou
 Um mesmo método ter mais de um comportamento de acordo com o tipo instanciado na variável em que foi chamado.
 

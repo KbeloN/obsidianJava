@@ -4,7 +4,7 @@ tags: [[Herança em JAVA]]
 # O que é
 A palavra chave "final" pode ser usada em classes, métodos ou em atributos, cada um tendo sua finalidade própria. 
 
-Em métodos, significa que não pode ser sobreposto em classes que o herdaram.
+Em métodos, significa que não pode ser sobreposto em nas subclasses.
 ![[Pasted image 20250205091625.png]]
 
 Em classes, impossibilita de classes poderem herda-la.

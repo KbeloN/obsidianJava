@@ -33,6 +33,23 @@ catch (InputMismatchException e){
 }
 ```
 
+E por ultimo, o bloco finally. Geralmente usamos ele para fechar recursos como o scanner, e o colocamos no final do programa. Independente de como o programa for desligado ou o que vai acontecer em tempo de execução, o bloco finally vai ser executado no final.
+
+Exemplo:
+```
+Scanner sc = new Scanner(System.in);
+try{
+	System.out.print("Digite um número INTEIRO: ");
+	int num = sc.nextInt();
+} 
+catch (InputMismatchException e){
+	System.out.println("Tú é burro?É pra colocar um numero inteiroKKKKKKKKKKKKKKKKKKKKK");
+}
+finally{
+	sc.close();
+}
+```
+
 # Por que usar
 Caso queremos que o programa não feche ao dar um erro, podemos usar o try-catch para tratar a exceção e continuar a execução do programa.
 Podemos também criar [[exceções personalizadas]] para suprir uma necessidade que não esteja na biblioteca do JAVA.
