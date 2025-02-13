@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1918faf218c6698e",
+        "id": "702b5c0da6bcbe59",
         "type": "tabs",
         "children": [
           {
-            "id": "286b27964a7d5058",
+            "id": "df75f84fbf078ac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Herança e Polimorfismo/Palavra Chave FINAL.md",
+                "file": "Java/Interfaces/Inversão de controle e Injeção de dependência.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Palavra Chave FINAL"
+              "title": "Inversão de controle e Injeção de dependência"
             }
           }
         ]
@@ -168,41 +168,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "326448177d870c17",
+  "active": "df75f84fbf078ac1",
   "lastOpenFiles": [
+    "Java/Interfaces/Interface.md",
+    "Java/Interfaces/Inversão de controle e Injeção de dependência.md",
+    "Java/Herança e Polimorfismo/Upcasting e Downcasting.md",
+    "Java/Trabalhando com arquivos/Leitura e escrita de arquivos.md",
+    "Imagens/Pasted image 20250212155517.png",
+    "Imagens/Pasted image 20250212155312.png",
+    "Templates/Assunto.md",
+    "Imagens/Pasted image 20250212155827.png",
+    "Imagens/Pasted image 20250212162339.png",
+    "Imagens/Pasted image 20250212155452.png",
+    "Imagens/Pasted image 20250212121248.png",
+    "Imagens/Pasted image 20250212121149.png",
+    "Imagens/Pasted image 20250205092151.png",
+    "Imagens/Pasted image 20250205092101.png",
+    "Imagens/Pasted image 20250205091625.png",
+    "Java/Herança e Polimorfismo/Herança em JAVA.md",
+    "Java/Interfaces",
+    "Java/Herança e Polimorfismo/Palavra Chave FINAL.md",
     "Java/Trabalhando com arquivos/Classe File.md",
     "Java/Trabalhando com arquivos/Escrita com File Writer e Buffered Writer.md",
     "Java/Trabalhando com arquivos/Leitura com FileReader e BufferedReader.md",
     "Java/Trabalhando com arquivos/Estrutura try-with-resources.md",
     "Java/Trabalhando com arquivos/File Reader e Buffered Reader.md",
     "Java/Trabalhando com arquivos/Leitura com Scanner.md",
-    "Java/Trabalhando com arquivos/Leitura e escrita de arquivos.md",
     "Java/Trabalhando com arquivos/Leitura de arquivos.md",
     "Java/Herança e Polimorfismo/Polimorfismo.md",
     "Java/Herança e Polimorfismo/Métodos abstratos.md",
-    "Java/Herança e Polimorfismo/Herança em JAVA.md",
     "Java/Trabalhando com arquivos/Untitled.md",
-    "Java/Herança e Polimorfismo/Palavra Chave FINAL.md",
     "Java/Exceções (Exceptions)/Estrutura Try-Catch.md",
     "Java/Exceções (Exceptions)/Exceções em Java.md",
     "Java/Exceções (Exceptions)/Exceções personalizadas.md",
     "Java/Exceções (Exceptions)/Pilha de chamadas de métodos.md",
-    "Untitled",
-    "Java/Herança e Polimorfismo/Upcasting e Downcasting.md",
     "Java/Trabalhando com arquivos",
     "Java/Exceções (Exceptions)/Untitled.md",
-    "Templates/Assunto.md",
     "Java/Exceções (Exceptions)",
     "Java/Untitled.md",
-    "Imagens/Pasted image 20250205092151.png",
-    "Imagens/Pasted image 20250205092101.png",
-    "Imagens/Pasted image 20250205091625.png",
-    "Imagens/exemplo herança.png",
     "Untitled.md",
     "Java/Herança/Untitled.md",
-    "Documentação Java.md",
     "Imagens",
-    "Java.md",
     "Tags",
     "Templates"
   ]
