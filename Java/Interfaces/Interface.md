@@ -2,7 +2,7 @@ Escrito em: 12-02-2025 11:04
 
 tags: [[Herança em JAVA]], [[Polimorfismo]], [[Upcasting e Downcasting]]
 # O que é e como usar
-Uma interface é como se fosse um contrato onde a classe que a implementa essa interface, deve desempenhar certas ações (métodos). Em outras palavras, ela age como uma classe abstrata. 
+Uma interface age como se fosse um contrato onde a classe que implementa essa interface, é obrigada a estabelecer seus métodos. Em outras palavras, ela age como uma classe abstrata, mas vale lembrar que cumprir um contrato NÃO é igual a herdar de um classe.
 
 Imagine um programa de aluguel de carros onde a classe que cria a fatura seja dependente da classe onde é calculado a taxa de um determinado país, que nesse caso é o Brasil.
 
@@ -15,13 +15,13 @@ Programa principal:![[Pasted image 20250212123157.png]]
 
 Agora imagine que o mesmo sistema vai ser usado com o sistema de taxa dos EUA. E graças ao forte acoplamento ao sistema de taxa brasileiro, nós teremos que mudar a classe de fatura para a adequarmos a mudança.
 
-Mas podemos resolver isso fazendo com que o RentalService seja dependente de uma interface que tenha como contrato uma operação de calcular os impostos e implementa-la nos sistemas de taxas dos países desejados. Esse processo é similar a [[Herança em JAVA]]. 
+Mas podemos resolver isso fazendo com que o RentalService seja dependente de uma interface que tenha como contrato uma operação de calcular os impostos e implementa-la nos sistemas de taxas dos países desejados. Esse processo é similar a [[Herança em JAVA]], mas nesse caso a implementação do método não é opcional. 
 
 Diagrama UML do problema (Com a interface):![[Pasted image 20250212155312.png]]
 
 Classe do serviço do aluguel (Com a interface):![[Pasted image 20250212155517.png]]
 
-OBS: Já que no construtor do RentalService está a interface (Classe genérica), todas as classes que cumpriram o contrato são válidas para serem usadas como argumento na instanciação do RentalService. Um ponto importante, além de herança, também conseguimos ver [[Polimorfismo]] e [[Upcasting e Downcasting]].
+OBS: Já que no construtor do RentalService está a interface ("Classe" genérica), todas as classes que cumpriram o contrato são válidas para serem usadas como argumento na instanciação do RentalService. Um ponto importante, além de herança, também conseguimos ver [[Polimorfismo]] e [[Upcasting e Downcasting]] no exemplo.
 
 Exemplo de uma classe que implementa uma interface:![[Pasted image 20250212155827.png]]
 

@@ -1,6 +1,6 @@
 Escrito em: 06-02-2025 10:57
 
-tags: [[Exceções em Java]]
+tags: [[Exceções em Java]], [[Estrutura try-with-resources]]
 # O que é e como usar
 Essa estrutura serve para pegar/catch alguma exceção específica ou genérica que pode ocorrer no programa durante a sua execução e trata-la do jeito que acharmos melhor.
 

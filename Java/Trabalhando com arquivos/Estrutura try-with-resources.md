@@ -1,6 +1,6 @@
 Escrito em: 10-02-2025 15:23
 
-tags: [[Leitura com Scanner]], [[Estrutura try-with-resources]], [[Leitura e escrita de arquivos]]
+tags: [[Leitura com Scanner]], [[Estrutura Try-Catch]], [[Leitura e escrita de arquivos]]
 # O que é e como usar
 A estrutura try-with-resources é literalmente o try-catch, mas com a possibilidade de instanciar um ou mais recursos no bloco try, assim, quando o mesmo acabar, os recursos vão ser fechados e o programa vai continuar como deveria.
 

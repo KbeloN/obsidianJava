@@ -1,6 +1,6 @@
 Escrito em: 12-02-2025 16:37
 
-tags:
+tags:[[Interface]]
 # O que é e como usar
 Inversão de controle, de uma maneira geral, são formas de fazer com que a classe não seja responsável pela instanciação de suas dependências.
 
