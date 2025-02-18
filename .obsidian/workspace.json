@@ -75,14 +75,28 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Imagens/Pasted image 20250214103843.png"
+                "file": "Imagens/Pasted image 20250214162743.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250214103843"
+              "title": "Pasted image 20250214162743"
+            }
+          },
+          {
+            "id": "c5ea2f4b4f23ef0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Generics, Curinga, Set e Map/Curinga.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Curinga"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -231,43 +245,44 @@
   },
   "active": "326448177d870c17",
   "lastOpenFiles": [
+    "Java/Generics, Curinga, Set e Map/Generics delimitados.md",
+    "Java/Generics, Curinga, Set e Map/Generics.md",
+    "Java/Generics, Curinga, Set e Map/Curinga delimitado.md",
+    "Java/Generics, Curinga, Set e Map/Curinga.md",
+    "Java/Exceções (Exceptions)/Exceções personalizadas.md",
+    "Java/Generics, Set e Map/Untitled.md",
+    "Java/Exceções (Exceptions)/Exceções em Java.md",
+    "Java/Exceções (Exceptions)/Estrutura Try-Catch.md",
+    "Java/Herança e Polimorfismo/Herança em JAVA.md",
+    "Imagens/Pasted image 20250214162642.png",
+    "Imagens/Pasted image 20250214162743.png",
+    "Java/Interfaces/Interface Comparable e Organização.md",
+    "Java/Interfaces/Default Methods (Defender methods).md",
+    "Java/Herança e Polimorfismo/Upcasting e Downcasting.md",
+    "Java/Interfaces/Interfaces e Herança, diferenças e junção.md",
+    "Java/Interfaces/Problema do diamante e herança múltipla com interfaces.md",
+    "Java/Interfaces/Inversão de controle e Injeção de dependência.md",
+    "Imagens/Pasted image 20250214103843.png",
     "Imagens/Pasted image 20250214103455.png",
     "Imagens/Pasted image 20250214103759.png",
-    "Imagens/Pasted image 20250214103843.png",
-    "Java/Interfaces/Default Methods (Defender methods).md",
-    "Generics, Set e Map",
+    "Java/Generics, Curinga, Set e Map",
     "Imagens/Pasted image 20250214103418.png",
     "Imagens/Pasted image 20250214103340.png",
-    "Java/Interfaces/Problema do diamante e herança múltipla com interfaces.md",
-    "Java/Interfaces/Interfaces e Herança, diferenças e junção.md",
-    "Java/Interfaces/Interface Comparable e Organização.md",
     "Java/Interfaces/Interface.md",
-    "Java/Interfaces/Inversão de controle e Injeção de dependência.md",
-    "Java/Exceções (Exceptions)/Exceções personalizadas.md",
     "Imagens/Pasted image 20250213112435.png",
     "Java/Trabalhando com arquivos/Classe File.md",
-    "Java/Herança e Polimorfismo/Herança em JAVA.md",
-    "Java/Herança e Polimorfismo/Upcasting e Downcasting.md",
     "Java/Herança e Polimorfismo/Polimorfismo.md",
     "Java/Herança e Polimorfismo/Palavra Chave FINAL.md",
     "Java/Herança e Polimorfismo/Métodos abstratos.md",
     "Java/Trabalhando com arquivos/Leitura com FileReader e BufferedReader.md",
-    "Java/Exceções (Exceptions)/Estrutura Try-Catch.md",
     "Java/Trabalhando com arquivos/Estrutura try-with-resources.md",
     "Java/Exceções (Exceptions)/Pilha de chamadas de métodos.md",
-    "Java/Exceções (Exceptions)/Exceções em Java.md",
     "Imagens/Pasted image 20250213105108.png",
     "Imagens/Pasted image 20250213112439.png",
-    "Imagens/Pasted image 20250213120944.png",
-    "Imagens/Pasted image 20250213105036.png",
     "Java/Trabalhando com arquivos/Leitura e escrita de arquivos.md",
     "Templates/Assunto.md",
     "Java/Interfaces",
     "Java/Trabalhando com arquivos/Escrita com File Writer e Buffered Writer.md",
-    "Java/Trabalhando com arquivos/File Reader e Buffered Reader.md",
-    "Java/Trabalhando com arquivos/Leitura com Scanner.md",
-    "Java/Trabalhando com arquivos/Leitura de arquivos.md",
-    "Java/Trabalhando com arquivos/Untitled.md",
     "Java/Trabalhando com arquivos",
     "Java/Exceções (Exceptions)",
     "Imagens",
