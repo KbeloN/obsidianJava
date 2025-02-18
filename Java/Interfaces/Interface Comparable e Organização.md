@@ -1,8 +1,8 @@
 Escrito em: 13-02-2025 14:46
 
-tags:[[Interface]]
+tags:[[Interface]], [[Generics]]
 # O que é e como usar
-A interface comparable é uma interface que como contrato, tem um método para comparar um objeto com outro objeto.
+A interface comparable é uma interface que como contrato, tem um método para comparar um objeto com outro objeto com um determinado atributo.
 
 Imagine que em um programa exista um vetor de Strings de nomes e precisamos organiza-la em ordem alfabética. Quando quando adicionamos os nomes, as variáveis tem que se comparar entre si para saber quem é antes de quem e vice versa. E a operação que nós precisamos é a Collections.sort().
 

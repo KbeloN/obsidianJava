@@ -1,6 +1,6 @@
 Escrito em: 14-02-2025 09:58
 
-tags:
+tags: [[Métodos abstratos]],[[Interfaces e Herança, diferenças e junção]], [[Herança em JAVA]], [[Polimorfismo]],[[Problema do diamante e herança múltipla com interfaces]],[[Interface]]
 # O que é default methods
 
 Default/Defender methods são métodos em uma interface que podem ser reusadas sem a necessidade de implementar em uma classe.
